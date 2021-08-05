@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/gustavocaciolato"><img alt="LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
 </p>
 
+
 [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/en/)
 [![AWS](http://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)](https://aws.amazon.com/)
