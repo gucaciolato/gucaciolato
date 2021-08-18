@@ -13,9 +13,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucaciolato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p> <br> </p>
 
+<!--
 [![gucaciolato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gucaciolato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p> <br> </p>
-
+-->
 
 [![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![NodeJS](http://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/en/)
