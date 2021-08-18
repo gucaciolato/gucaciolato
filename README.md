@@ -1,8 +1,8 @@
-<h1 align="center">Hello guys, I'm Gu Caciolato!</h1>
-<h3 align="center">Service Desk and Software Developer.</h3>
+<h1>Hello guys, I'm Gu Caciolato!</h1>
+<h3>Service Desk and Software Developer.</h3>
 
 
-<p align="center">
+<p>
   <a href="https://github.com/gucaciolato"><img alt="GitHub" src="http://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
   <a href="https://www.linkedin.com/in/gustavocaciolato"><img alt="LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
 </p>
