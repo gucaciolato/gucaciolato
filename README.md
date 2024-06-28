@@ -1,5 +1,5 @@
 <h1>Hello guys, I'm Gu Caciolato!</h1>
-<h3>Service Desk and Software Developer.</h3>
+<h3>Backend Developer.</h3>
 
 
 <p>
